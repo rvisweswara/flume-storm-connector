@@ -1,0 +1,4 @@
+flume-agent.source.type=avro
+flume-agent.channel.type=memory
+flume-agent.source.bind=0.0.0.0
+flume-agent.source.port=10101
